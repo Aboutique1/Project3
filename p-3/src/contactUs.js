@@ -1,11 +1,13 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+// import './App.css';
+import ContactUsForm from './ContactUsForm';
 
 function ContactUs() {
   return (
     <div className="App">
-     <h2>Contact Us</h2> 
+     <h2>Contact Us</h2>
+      <p>Shoot us an email...</p>
+     <ContactUsForm />
     </div>
   );
 }

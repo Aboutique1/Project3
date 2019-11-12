@@ -1,6 +1,5 @@
 .App {
   text-align: center;
-  margin-top: 70px;
 }
 
 .App-logo {
@@ -20,16 +19,4 @@
 
 .App-link {
   color: #09d3ac;
-}
-
-.submit-email-group {
-  align-items: flex-end;
-  display: flex;
-  margin-bottom: 60px;
-}
-
-.submit-email-btn {
-  background-color: #FF3333;
-  color: #000000;
-  border: 1px #000000 solid;
 }
